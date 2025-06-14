@@ -1,7 +1,7 @@
 # QR Code Generator
 
 Generate QR codes from text or URLs using a free external API.
-
+https://harshh-2.github.io/QR-Code_Generator/
 ## Features
 
 - Simple, user-friendly interface
